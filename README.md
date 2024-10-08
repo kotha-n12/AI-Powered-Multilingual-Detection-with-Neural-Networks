@@ -26,10 +26,7 @@ This project aims to develop a neural network-based system capable of detecting 
 #### Learnings:
 - Incorporating BiLSTM helps in understanding languages written in both left-to-right and right-to-left formats.
 - Regularization techniques, such as dropout and batch normalization, significantly help reduce overfitting and speed up convergence.
-- CNN combined with BiLSTM proved to be the most effective in extracting features and capturing the sequential nature of languages.
-
-This project demonstrates the power of neural networks in handling multilingual text classification and provides a solid foundation for future improvements in the field.
+- CNN combined with BiLSTM proved to be the most effective in extracting features and capturing the sequential nature of languages
 
 --- 
 
-You can tailor this further to match the specific details you want to highlight on your GitHub page!
